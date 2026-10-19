@@ -1,0 +1,27 @@
+ELIP-Pair Notice of acknowledgements:
+
+Portions of the Materials may utilize the following subcomponents or dependencies with separate copyright notices and license terms, the use of which is hereby acknowledged:
+
+------------------------------------------------------
+PART 1: SEE NOTICES BELOW WITH RESPECT TO MODEL FILES:
+------------------------------------------------------
+
+Portions of the Materials include the use of the model(s) listed in this PART 1 that are available under the following terms:
+
+(1.A) Qwen TTS model
+that is available here:
+https://github.com/QwenLM/Qwen3-TTS
+is made available under the following license (Apache License 2.0):
+https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE
+
+---------------------------------------------------
+PART 2: SEE NOTICES BELOW WITH RESPECT TO DATASETS:
+---------------------------------------------------
+
+The datasets listed in this PART 2, which are not being distributed with the Materials, are available under the following terms, which as applicable also apply to the use of checkpoints distributed with the Materials that are trained using such datasets (i.e., any use of checkpoints derived from such datasets are subject, as applicable, to any additional limiting terms and conditions of the corresponding dataset license in addition to the terms and conditions of the License to the Materials):
+
+(2.A) EchoMind dataset
+that is available here:
+https://huggingface.co/datasets/hlt-cuhksz/EchoMind
+is made available under the following license (CC-BY-NC-SA-4.0): 
+https://spdx.org/licenses/CC-BY-NC-SA-4.0
